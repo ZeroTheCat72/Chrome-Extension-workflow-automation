@@ -1,10 +1,20 @@
 # Chrome Extension automation generator
 
-This Bash script simply aims to simplify the workflow of getting a basic Chrome Extension workflow up and running. Nothing more.
+This Bash script simply aims to simplify the workflow of getting a basic Chrome Extension workflow up and running, with Git set up. Nothing more.
+
+The directory will look like this:
+
+`
+Parent DIR
+-manifest.json
+-index.html
+-scripts folder
+--content.js
+`
 
 ## Adding multiple arguments
 
-The First Argument is the directory in which you want the extension project folder to live in. The second argument is the name for the extension (use "" if you're including spaces). These 2 arguments are ***required***.
+The First Argument is the directory in which you want the extension project folder to live in, The project directory is created inside it. The second argument is the name for the extension (use "" if you're including spaces). These 2 arguments are ***required***.
 
 ## Possible Issues
 
