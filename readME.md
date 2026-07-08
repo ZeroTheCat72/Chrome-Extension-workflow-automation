@@ -4,13 +4,13 @@ This Bash script simply aims to simplify the workflow of getting a basic Chrome 
 
 The directory will look like this:  
 
-`
-Parent DIR  
-./manifest.json  
-./index.html  
-./scripts folder  
-./scripts/content.js  
-`
+```
+Parent DIR
+./manifest.json
+./index.html
+./scripts folder
+./scripts/content.js
+```
 
 ## Adding multiple arguments
 
