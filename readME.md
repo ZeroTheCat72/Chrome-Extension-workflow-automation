@@ -14,7 +14,7 @@ Parent DIR
 
 ## Adding multiple arguments
 
-The First Argument is the directory in which you want the extension project folder to live in, The project directory is created inside it. The second argument is the name for the extension (use "" if you're including spaces). These 2 arguments are ***required***.
+The First Argument is the directory in which you want the extension project folder to live in, The project directory is created inside it. The second argument is the name for the extension (use "" if you're including spaces). The third one is just the version (like 1.0) These 3 arguments are ***required***.
 
 ## Possible Issues
 
